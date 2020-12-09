@@ -1,0 +1,5 @@
+.all-posts-router {
+    box-sizing: border-box;
+    border: 1px solid tomato;
+    min-height: 50px;
+}
