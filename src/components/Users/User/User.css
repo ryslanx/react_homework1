@@ -1,0 +1,11 @@
+.user-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.custom-margin {
+    margin-right: 10px;
+}
+.list-group-item {
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+.users {
+    background-color: #100e0e;
+    display: flex;
+}
+.user-info {
+    text-align: left;
+    width: 600px;
+}
+.card {
+    width: 600px;
+}
+.user-posts {
+    background: #100e0e;
+}
