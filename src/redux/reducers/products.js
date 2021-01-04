@@ -1,5 +1,5 @@
 import '../action-types'
-import {SET_PRODUCTS} from "../action-types";
+import {SET_PRODUCTS, ADD_PRODUCT} from "../action-types";
 
 const initialState = {
     products: []

@@ -1,0 +1,13 @@
+.total {
+    text-align: center;
+}
+.checkout_button {
+    display: block;
+    margin: 0 auto;
+    border: none;
+    padding: 20px 24px;
+    font-size: 15px;
+    background-color: green;
+    color: #ffffff;
+    border-radius: 3%;
+}

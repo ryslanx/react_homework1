@@ -12,7 +12,14 @@ header {
 }
 .icons {
     margin-right: 20px;
+    display: flex;
+}
+.cart_icon {
+    margin-right: 5px;
 }
 .heart_icon {
-    margin-right: 10px;
+    margin-right: 5px;
+}
+.wishlist_box {
+    margin-right: 5px;
 }
